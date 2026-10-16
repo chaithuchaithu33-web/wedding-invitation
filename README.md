@@ -17,7 +17,7 @@ A responsive, static wedding invitation website that can be hosted free with Git
 - Muhurtham: 9:15 AM (India Standard Time)
 - Venue: Vishwanaadha Gardens, J.P. Nagar, HMT Road, Miyapur, Telangana 500049
 - Reception: Friday, 27 November 2026, 12:00 PM onwards
-- Reception venue: B Convention Center, Markapur
+- Reception venue: B Convention Center, Markapuram
 
 ## Add your own photos or music (optional)
 This version uses decorative CSS artwork, so it works without photo files.
